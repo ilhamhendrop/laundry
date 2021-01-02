@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">LaundryApp</string>
+    <string name="laundry">Laundry</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="name">Name</string>
+    <string name="alamat">Alamat</string>
+    <string name="phone">Phone</string>
+    <string name="register">Register</string>
+    <string name="belum_punya_akun_silahkan_daftar_sekarang">"Don't" have an account, please register now</string>
+    <string name="save">Save</string>
+    <string name="reset_password">Forged Password?</string>
+    <string name="reset">Reset Password</string>
+    <string name="home">Home</string>
+    <string name="history">History</string>
+    <string name="account">Account</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="edit">Edit</string>
+    <string name="error_login">Email/Password Salah</string>
+    <string name="confirm_password">Confrim Password</string>
+    <string name="logout">Logout</string>
+    <string name="update">Update Data</string>
+    <string name="update_profile">Update Data</string>
+    <string name="update_foto">Update Photo</string>
+    <string name="setting">Setting</string>
+    <string name="barang">Barang</string>
+    <string name="add_barang">Add Barang</string>
+    <string name="ketarangan">Keterangan</string>
+    <string name="kategori">Kategori</string>
+    <string name="harga">Harga</string>
+    <string name="delete">Delete</string>
+    <string name="bayar">Bayar</string>
+    <string name="tab_barang">Barang</string>
+    <string name="tab_keranjang">Keranjang</string>
+    <string name="titik_dua">:</string>
+    <string name="pembayaran">Pembayaran</string>
+    <string name="tipe_langganan">Tipe Langganan</string>
+    <string name="hari">Pengambilan Hari</string>
+    <string name="berapa_kali">Berapa Kali</string>
+    <string name="update_data">Update Data</string>
+    <string name="data_barang">Data Barang</string>
+    <string name="total_pembayaran">Total Pembayaran</string>
+    <string name="berlangganan">Berlangganan</string>
+    <string name="shooping">Shooping</string>
+    <string name="name_bank">Name Bank</string>
+    <string name="nomor_rekening">Nomor Rekening</string>
+    <string name="bank">Bank</string>
+    <string name="nomor_rekening">Nomor Rekening</string>
+
+    <string-array name="langganan">
+        <item>-Langganan-</item>
+        <item>Harian</item>
+        <item>Mingguan</item>
+    </string-array>
+
+    <string-array name="kali">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+</resources>
